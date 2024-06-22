@@ -21,8 +21,8 @@ This Python script uses natural language processing (NLP) techniques to extract 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/yourusername/Resume_parser.git
+   cd Resume_parser
    ```
 
 2. Install dependencies:
